@@ -1,0 +1,9 @@
+#filterRow .double {
+  background-color: #aef9e7;
+}
+
+#filterRow .triple {
+  background-color: #28c95b;
+  color: white;
+  font-weight: 700;
+}
